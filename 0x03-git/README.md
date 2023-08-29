@@ -1,1 +1,1 @@
-A new readme
+New readme
